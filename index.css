@@ -1,0 +1,64 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background: url(http://www.publicdomainpictures.net/pictures/130000/nahled/fine-blue-background-pattern.jpg) repeat top left;
+    }
+
+    header {
+        background-color: ;
+        padding:5px;
+        background: url(https://subtlepatterns.com/patterns/cheap_diagonal_fabric.png) repeat top left;
+        font-size: 20px;
+        text-align: center;
+        text-decoration-color: #d2cdb2;
+        font-style: normal;
+        display: block;
+        width: 1090px;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+        bottom: 5000%;
+    }
+    nav ul {
+        list-style-type: none;
+        display: list-item;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 972px;
+        display: inline-block;
+        background: url(https://subtlepatterns.com/patterns/cheap_diagonal_fabric.png) repeat top left;
+        text-align: left;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+
+    }
+    ul {
+        list-style-type: none;
+        display: inline-flex;
+        padding-left: 0px;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
